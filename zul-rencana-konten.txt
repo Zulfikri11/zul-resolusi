@@ -3,10 +3,12 @@ Rencana konten
 -Javascript
   *ES6
   *Framwork Javascript
-   ^ Angular
+   ^ Vue
    ^ React
+-Fundamental Data Structure
 -Artificial Intelligence
 -PHP Framework
  *Laravel
 -Interview
 -Vlogs
+-Python
