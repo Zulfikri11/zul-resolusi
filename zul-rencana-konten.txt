@@ -4,6 +4,7 @@ Rencana konten
   *ES6
   *Framwork Javascript
    ^ Vue
+   ^ React
 -Fundamental Data Structure
 -Artificial Intelligence
 -PHP Framework
