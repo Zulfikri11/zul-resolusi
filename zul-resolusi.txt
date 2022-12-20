@@ -1,6 +1,6 @@
 Resolusi:
 -Konsisten belajar
 -Membuat platform untuk mengelolaan data
--Membuat forum diskusi
 -Membuat video tutorial
 -Belajar Office
+-Membuat vlog
