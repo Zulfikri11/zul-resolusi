@@ -3,6 +3,8 @@ Rencana konten
 -Javascript
   *ES6
   *Framwork Javascript
+-Fundamental Data Structure
+-Artificial Intelligence
 -PHP Framework
 -Interview
 -Vlogs
